@@ -42,3 +42,6 @@ Creates a CSV file for each database, along with minimal preprocessing
 ## Database Structure
 
 [You can find the structure of the database here](DatabaseStructure.md)
+
+## Continuation
+A Continuation of this project involving cleaning up, restructuring of data, enriching and extracting skill along with visualisations of key data can be found at https://github.com/SindhiaBhanu-C/Linkedin-Job-Analysis
