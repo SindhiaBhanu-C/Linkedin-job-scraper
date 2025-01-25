@@ -4,7 +4,6 @@
 
 **Program to scrape and store a constant stream of LinkedIn job postings and dozens of their respective attributes**
 
-**Download the polished dataset and view insights at - https://www.kaggle.com/datasets/arshkon/linkedin-job-postings**
 
 ## User Configurations
 
